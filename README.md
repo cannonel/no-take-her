@@ -1,7 +1,7 @@
 # no-take-her
 
 ## Description
-A web application that renders the ability to write and save notes so that the user can organize their thoughts and keep track of tasks that need to be completed.
+A web application that renders the ability to write, save, and delete notes so that the user can organize their thoughts and keep track of tasks that need to be completed.
 
 ----
 
