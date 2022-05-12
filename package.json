@@ -1,0 +1,23 @@
+{
+  "name": "no-take-her",
+  "version": "1.0.0",
+  "description": "A web application that renders the ability to write and save notes so that the user can organize their thoughts and keep track of tasks that need to be completed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannonel/no-take-her.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cannonel/no-take-her/issues"
+  },
+  "homepage": "https://github.com/cannonel/no-take-her#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nanoid": "^3.3.4"
+  }
+}
